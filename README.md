@@ -1,23 +1,3 @@
-## STOP DOING BEG-BOUNTIES - STOP COPYING ANOTHERS POC ! DO SOMETHING DIFFERENT!🔴🔴🔴🔴✔
-## **Want to support my work?**
-## DONT TRY HACKING WITHOUT BASICS --- IT WILL BE DANGEROUS FOR YOU AND YOUR FUTURE!
- 
-<p align="center">
-  <img src="https://piximus.net/media2/47111/fails-gifs-that-will-keep-you-laughing-for-a-long-time-1.gif">
-  </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/alexbieber/Bug_Bounty_writeups?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/alexbieber/Bug_Bounty_writeups?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/alexbieber/Bug_Bounty_writeups?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/alexbieber/Bug_Bounty_writeups?color=teal&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-Alex--Bieber-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
 ## Contents
 
 - [Cross Site Scripting (XSS)](https://github.com/alexbieber/Bug_Bounty_writeups#cross-site-scripting-xss)
